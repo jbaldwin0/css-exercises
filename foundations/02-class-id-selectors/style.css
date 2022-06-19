@@ -1,0 +1,20 @@
+.pclass1,
+.pclass2 {
+    background-color: rgb(221, 124, 164);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pclass2 {
+    font-size: 24px;
+}
+
+#div1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: #00ff62;
+    font-size: 24px;
+    font-weight: bold;
+}
