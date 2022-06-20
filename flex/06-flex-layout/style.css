@@ -41,6 +41,7 @@ input {
   display: flex;
   flex-direction: row;
   margin-bottom: auto;
+  justify-content: space-between;
 }
 
 .footer {
@@ -49,6 +50,7 @@ input {
   background-color: #eeeeee;
   margin-top: auto;
   flex-shrink: 0;
+  justify-content: space-between;
 }
 
 .content {
